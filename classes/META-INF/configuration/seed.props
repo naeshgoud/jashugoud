@@ -1,0 +1,4 @@
+# This bootstrap configuration file tells Seed to scan the jashwitha package
+
+[org.seedstack.seed]
+base-packages = jashwitha
